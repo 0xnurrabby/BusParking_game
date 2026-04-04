@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <strings>
+
+        <string id="TAP_TO_CONTINUE">
+            <en>Tap to continue</en>
+            <es>Toca para continuar</es>
+            <de>Tippen Sie,\num fortzufahren</de>
+            <it>Tocca per continuare</it>
+            <fr>Appuyez pour\ncontinuer</fr>
+            <ru>Нажмите,\nчтобы продолжить</ru>
+            <pt>Toque para continuar</pt>
+        </string>
+
+        <string id="INSTRUCTIONS">
+            <en>Instructions</en>
+            <es>Instrucciones</es>
+            <de>Anleitung</de>
+            <it>Istruzioni</it>
+            <fr>Instructions</fr>
+            <ru>Инструкция</ru>
+            <pt>Instruções</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="UPGRADES">
+            <en>upgrades</en>
+            <es>actualizaciones</es>
+            <de>Verbesserungen</de>
+            <it>aggiornamenti</it>
+            <fr>Améliorations</fr>
+            <ru>обновления</ru>
+            <pt>atualizações</pt>
+        </string>
+
+        <string id="REWARDS">
+            <en>rewards</en>
+            <es>Recompensas</es>
+            <de>Belohnungen</de>
+            <it>Ricompense</it>
+            <fr>Récompenses</fr>
+            <ru>Награды</ru>
+            <pt>Recompensas</pt>
+        </string>
+
+        <string id="SPECIAL_EVENT">
+            <en>SPECIAL EVENT</en>
+            <es>Evento especial</es>
+            <de>Spezialereignis</de>
+            <it>Evento speciale</it>
+            <fr>Événement spécial</fr>
+            <ru>Специальное событие</ru>
+            <pt>Evento especial</pt>
+        </string>
+
+        <string id="KEEP_PLAYING">
+            <en>Keep playing</en>
+            <es>Seguir jugando</es>
+            <de>Weiterspielen</de>
+            <it>Continua a giocare</it>
+            <fr>Continuer à jouer</fr>
+            <ru>Продолжить игру</ru>
+            <pt>Continuar jogando</pt>
+        </string>
+
+        <string id="FREE_LIFE">
+            <en>Free life</en>
+            <es>Vida gratis</es>
+            <de>Kostenloses Leben</de>
+            <it>Vita gratuita</it>
+            <fr>Vie libre</fr>
+            <ru>Бесплатная жизнь</ru>
+            <pt>Vida livre</pt>
+        </string>
+
+        <string id="TOURNAMENT">
+            <en>Tournament</en>
+            <es>Torneo</es>
+            <de>Turnier</de>
+            <it>Torneo</it>
+            <fr>Tournoi</fr>
+            <ru>Турнир</ru>
+            <pt>Torneio</pt>
+        </string>
+
+        <string id="TOURNAMENT_REWARD">
+            <en>Tournament reward</en>
+            <es>Recompensa del torneo</es>
+            <de>Turnier-Belohnung</de>
+            <it>Premio del torneo</it>
+            <fr>Récompense du tournoi</fr>
+            <ru>Турнирная награда</ru>
+            <pt>Prêmio do torneio</pt>
+        </string>
+
+        <string id="TRY_LATER">
+            <en>Try again later</en>
+            <es>Volver a intentarlo más tarde</es>
+            <de>Später erneut versuchen</de>
+            <it>Riprova più tardi</it>
+            <fr>Réessayer plus tard</fr>
+            <ru>Повторите попытку позже</ru>
+            <pt>Tente novamente mais tarde</pt>
+        </string>
+
+        <string id="XTH_PLACE">
+            <en>XX. PLACE</en>
+            <es>XX. Lugar</es>
+            <de>XX. Platz</de>
+            <it>XX. Posto</it>
+            <fr>XX. Place</fr>
+            <ru>XX. Место</ru>
+            <pt>XX. Local</pt>
+        </string>
+
+        <string id="PROFILE">
+            <en>Profile</en>
+            <es>Perfil</es>
+            <de>Profil</de>
+            <it>Profilo</it>
+            <fr>Profil</fr>
+            <ru>Профиль</ru>
+            <pt>Perfil</pt>
+        </string>
+
+        <string id="ENTER_NAME">
+            <en>Enter your name</en>
+            <es>Introduce tu nombre</es>
+            <de>Gib deinen Namen ein</de>
+            <it>Inserisci il tuo nome</it>
+            <fr>Saisissez votre nom</fr>
+            <ru>введите свое имя</ru>
+            <pt>Digite seu nome</pt>
+        </string>
+
+        <string id="PLAYER_TURN">
+            <en>Player turn</en>
+            <es>mejoras</es>
+            <de>Verbesserungen</de>
+            <it>miglioramenti</it>
+            <fr>Améliorations</fr>
+            <ru>обновления</ru>
+            <pt>atualizações</pt>
+        </string>
+
+        <string id="OPPONENT_TURN">
+            <en>Opponent's\nturn</en>
+            <es>Turno del oponente</es>
+            <de>Gegner ist dran</de>
+            <it>Turno dell'avversario</it>
+            <fr>Tour de l'adversaire</fr>
+            <ru>Ход противника</ru>
+            <pt>Vez do oponente</pt>
+        </string>
+
+        <string id="PLAYER_OUT_OF_TIME">
+            <en>You ran out\nof time!</en>
+            <es>Te has quedado\nsin tiempo</es>
+            <de>Du hast keine\nZeit mehr</de>
+            <it>Il tempo a disposizione\nè scaduto</it>
+            <fr>Vous avez manqué\nde temps</fr>
+            <ru>У вас закончилось\nвремя</ru>
+            <pt>Você ficou\nsem tempo</pt>
+        </string>
+
+        <string id="SETTINGS">
+            <en>Settings</en>
+            <es>Ajustes</es>
+            <de>Einstellungen</de>
+            <it>Impostazioni</it>
+            <fr>Paramètres</fr>
+            <ru>Настройки</ru>
+            <pt>Definições</pt>
+        </string>
+
+        <string id="GRAPHICS">
+            <en>Graphics</en>
+            <es>Gráfico</es>
+            <de>Grafik</de>
+            <it>Grafica</it>
+            <fr>Graphique</fr>
+            <ru>Графика</ru>
+            <pt>Gráficos</pt>
+        </string>
+
+        <string id="HIGH">
+            <en>High</en>
+            <es>Alto</es>
+            <de>Hoch</de>
+            <it>Alta</it>
+            <fr>Haute</fr>
+            <ru>Высокие</ru>
+            <pt>Alto</pt>
+        </string>
+
+        <string id="LOW">
+            <en>Low</en>
+            <es>Bajo</es>
+            <de>Niedrig</de>
+            <it>Bassa</it>
+            <fr>Basse</fr>
+            <ru>Низкие</ru>
+            <pt>Baixo</pt>
+        </string>
+
+        <string id="UPGRADE">
+            <en>Upgrade</en>
+            <es>Mejora</es>
+            <de>Aufrüsten</de>
+            <it>Potenzia</it>
+            <fr>Amélioration</fr>
+            <ru>ОБНОВИТЬ</ru>
+            <pt>Melhore</pt>
+        </string>
+
+        <string id="WEAPONS">
+            <en>Weapons</en>
+            <es>Armas</es>
+            <de>Waffen</de>
+            <it>Armi</it>
+            <fr>Armes</fr>
+            <ru>оружие</ru>
+            <pt>Armas</pt>
+        </string>
+
+        <string id="SELECT">
+            <en>Select</en>
+            <es>SELECCIONAR</es>
+            <de>AUSWÄHLEN</de>
+            <it>SELEZIONA</it>
+            <fr>SÉLECTIONNER</fr>
+            <ru>ВЫБРАТЬ</ru>
+            <pt>SELECIONE</pt>
+        </string>
+
+        <string id="SELECTED">
+            <en>SELECTED</en>
+            <es>SELECCIONADO</es>
+            <de>AUSGEWÄHLT</de>
+            <it>SELEZIONATO</it>
+            <fr>SÉLECTIONNÉ</fr>
+            <ru>Отметить</ru>
+            <pt>SELECIONADO</pt>
+        </string>
+
+        <string id="OPEN">
+            <en>Open</en>
+            <es>Abrir</es>
+            <de>Öffnen</de>
+            <it>Apri</it>
+            <fr>Ouvrir</fr>
+            <ru>Открыть</ru>
+            <pt>Abrir</pt>
+        </string>
+
+        <string id="FULLSCREEN">
+            <en>FULLSCREEN</en>
+            <es>pantalla completa</es>
+            <de>Vollbild</de>
+            <it>a schermo intero</it>
+            <fr>plein écran</fr>
+            <ru>полноэкранный</ru>
+            <pt>tela cheia</pt>
+        </string>
+
+        <string id="ON">
+            <en>on</en>
+            <es>Sí</es>
+            <de>An</de>
+            <it>On</it>
+            <fr>Activé</fr>
+            <ru></ru>
+            <pt>Ativado</pt>
+        </string>
+
+        <string id="OFF">
+            <en>off</en>
+            <es>No</es>
+            <de>Aus</de>
+            <it>Off</it>
+            <fr>Désactivé</fr>
+            <ru></ru>
+            <pt>Desativado</pt>
+        </string>
+
+        <string id="YES">
+            <en>Yes</en>
+            <es>Sí</es>
+            <de>Ja</de>
+            <it>Sì</it>
+            <fr>Oui</fr>
+            <ru>Да</ru>
+            <pt>Sim</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="NO">
+            <en>No</en>
+            <es>No</es>
+            <de>Nein</de>
+            <it>No</it>
+            <fr>Non</fr>
+            <ru>Нет</ru>
+            <pt>Não</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="RESET">
+            <en>Reset</en>
+            <es>Restablecer</es>
+            <de>Zurücksetzen</de>
+            <it>Azzera</it>
+            <fr>Réinitialiser</fr>
+            <ru>Сбросить</ru>
+            <pt>Retomar</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="SELECT">
+            <en>Select</en>
+            <es>Seleccionar</es>
+            <de>Auswählen</de>
+            <it>Seleziona</it>
+            <fr>Sélectionner</fr>
+            <ru>Выбрать</ru>
+            <pt>Selecione</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="NEXT">
+            <en>Next</en>
+            <es>Siguiente</es>
+            <de>Nächste</de>
+            <it>Seguente</it>
+            <fr>Suivant</fr>
+            <ru>Будущий</ru>
+            <pt>Seguinte</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="TAP_TO_PLAY">
+            <en>Tap to Start</en>
+            <es>Toca para comenzar</es>
+            <de>Tippe, zum Starten</de>
+            <it>Tocca per iniziare</it>
+            <fr>Touchez pour commencer</fr>
+            <ru>Нажмите, чтобы начать</ru>
+            <pt>Toque para Iniciar</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="MUSIC">
+            <en>Music</en>
+            <es>Música</es>
+            <de>Musik</de>
+            <it>Musica</it>
+            <fr>Musique</fr>
+            <ru>Музыка</ru>
+            <pt>Música</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="LEVEL_UP">
+            <en>Level up!</en>
+            <es>¡Aumento de nivel!</es>
+            <de>Aufsteigen!</de>
+            <it>Aumento di livello!</it>
+            <fr>Niveau supérieur!</fr>
+            <ru>Уровень повышен!</ru>
+            <pt>Subir de nível!</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="FREE">
+            <en>Free</en>
+            <es>Gratis</es>
+            <de>Gratis</de>
+            <it>Gratis</it>
+            <fr>Gratuit</fr>
+            <ru>Бесплатное</ru>
+            <pt>Grátis</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="COLLECT">
+            <en>COLLECT</en>
+            <es>RECOGER</es>
+            <de>SAMMELN</de>
+            <it>RACCOGLI</it>
+            <fr>RÉCUPÉRER</fr>
+            <ru>Собрать</ru>
+            <pt>COLECIONAR</pt>
+        </string>
+
+        <string id="CLAIM">
+            <en>Claim</en>
+            <es>Solicitar</es>
+            <de>Abholen</de>
+            <it>Riscuoti</it>
+            <fr>Réclamer</fr>
+            <ru>Забрать</ru>
+            <pt>Solicitar</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="BUY">
+            <en>Buy</en>
+            <es>Comprar</es>
+            <de>Kaufen</de>
+            <it>Comprare</it>
+            <fr>Acheter</fr>
+            <ru>Купить</ru>
+            <pt>Comprar</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="CLAIM_NOW">
+            <en>Claim\nNOW</en>
+            <es>Solicitar</es>
+            <de>Abholen</de>
+            <it>Riscuoti</it>
+            <fr>Réclamer</fr>
+            <ru>Забрать</ru>
+            <pt>Solicitar</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="CLAIMED">
+            <en>Claimed</en>
+            <es>Reclamado</es>
+            <de>Behauptet</de>
+            <it>Rivendicata</it>
+            <fr>Réclamé</fr>
+            <ru>Заявлено</ru>
+            <pt>Reclamado</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="PLAY">
+            <en>Play</en>
+            <es>Jugar</es>
+            <de>Spielen</de>
+            <it>Gioca</it>
+            <fr>Jouer</fr>
+            <ru>Играть</ru>
+            <pt>Reproduzir</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="REWARD">
+            <en>Reward</en>
+            <es>Recompensa</es>
+            <de>Belohnung</de>
+            <it>Ricompensa</it>
+            <fr>Récompense</fr>
+            <ru>Награда</ru>
+            <pt>Recompensa</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="PAUSED">
+            <en>Game Paused</en>
+            <es>Juego en pausa</es>
+            <de>Spiel pausiert</de>
+            <it>Pausa</it>
+            <fr>Partie en pause</fr>
+            <ru>ИГРА ПРИОСТАНОВЛЕНА</ru>
+            <pt>Jogo pausado</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="ARE_YOU_SURE">
+            <en>Are you sure?\nYour game will end.</en>
+            <es>¿Estás seguro?\nTu partida terminará.</es>
+            <de>Sind Sie sicher?\nIhr Spiel wird beendet.</de>
+            <it>Sei sicuro?\nLa tua partita finirà.</it>
+            <fr>Tu es sûr ?\nVotre partie se terminera.</fr>
+            <ru>Ты уверен?\nТвоя игра будет\nокончена.</ru>
+            <pt>Tem certeza?\nSeu jogo terminará.</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="LOADING">
+            <en>Loading</en>
+            <es>Cargando</es>
+            <de>Lädt</de>
+            <it>Caricamento</it>
+            <fr>Chargement</fr>
+            <ru>Загрузка</ru>
+            <pt>Carregando</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="CONTINUE">
+            <en>Continue</en>
+            <es>Continuar</es>
+            <de>Weiter</de>
+            <it>Continuare</it>
+            <fr>Continuer</fr>
+            <ru>Продолжить</ru>
+            <pt>Continuar</pt>
+            <nl>Fortsätta</nl>
+            <no>Fortsette</no>
+        </string>
+
+        <string id="CONTINUE?">
+            <en>Continue?</en>
+            <es>¿Continuar?</es>
+            <de>Weiter?</de>
+            <it>Continuare?</it>
+            <fr>Continuer?</fr>
+            <ru>Продолжить?</ru>
+            <pt>Continuar?</pt>
+            <nl>Fortsätta?</nl>
+            <no>Fortsette?</no>
+        </string>
+
+        <string id="PATROL_BONUS">
+            <en>Patrol Bonus</en>
+            <es>Bonificación de patrulla</es>
+            <de>Patrouillen-Bonus</de>
+            <it>Bonus pattuglia</it>
+            <fr>Bonus de patrouille</fr>
+            <ru>Бонус за патрулирование</ru>
+            <pt>Bônus de patrulha</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="NEW">
+            <en>NEW!</en>
+            <es>¡Nuevo!</es>
+            <de>Neu!</de>
+            <it>Novità!</it>
+            <fr>Nouveau!</fr>
+            <ru>Новый!</ru>
+            <pt>Novo!</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+	    <string id="STAGE">
+            <en>Stage</en>
+            <es>Fase</es>
+            <de>Stufe</de>
+            <it>Fase</it>
+            <fr>Section</fr>
+            <ru>Этап</ru>
+            <pt>Fase</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="ANIMALS_ESCAPED">
+            <en>ANIMALS ESCAPED</en>
+            <es></es>
+            <de></de>
+            <it></it>
+            <fr></fr>
+            <ru></ru>
+            <pt></pt>
+        </string>
+
+        <string id="INS_PAGE1_TEXT1">
+            <en>UPGRADE   .   AND BEAT YOUR\nOPPONENTS</en>
+            <es>Mejora   .   y vence\na tus oponentes</es>
+            <de>Verbessere   .   und besiege\ndeine Gegner</de>
+            <it>Potenziate   .   e battete\ngli avversari</it>
+            <fr>Améliorez   .   et battez\nvos adversaires</fr>
+            <ru>Улучшайте   .   и побеждайте\nсвоих соперников</ru>
+            <pt>Faça upgrade de   .   e vença\nseus adversários</pt>
+        </string>
+
+        <string id="INS_PAGE2_TEXT1">
+            <en>EARN       TO UNLOCK NEW   .</en>
+            <es>Gana        para\ndesbloquear nuevos    .</es>
+            <de>Verdiene         um neue   \nfreizuschalten    .</de>
+            <it>Guadagna         per\nsbloccare nuovi     .</it>
+            <fr>Gagnez         pour\ndébloquer de nouvelles     .</fr>
+            <ru>Заработайте         чтобы\nразблокировать новые     .</ru>
+            <pt>Ganhe         para\ndesbloquear novos     .</pt>
+        </string>
+
+        <string id="INS_PAGE3_TEXT1">
+            <en>SWIPING FAST WHEN THROWING\nGETS YOU MORE POWER</en>
+            <es>Deslizar rápido al lanzar\nte da más potencia</es>
+            <de>Durch schnelles Swipen\nbeim Werfen erhältst\ndu mehr Kraft</de>
+            <it>Scorrendo velocemente il dito\ndurante il lancio si ottiene\nuna maggiore potenza</it>
+            <fr>Glissez rapidement lorsque\nvous lancez pour obtenir\nplus de puissance</fr>
+            <ru>Быстрые движения при\nброске дают вам\nбольше энергии</ru>
+            <pt>Deslizar rapidamente\nao arremessar lhe\ndá mais força</pt>
+        </string>
+
+        <string id="INS_PAGE3_TITLE1">
+            <en>Targets</en>
+            <es>Objetivos</es>
+            <de>Ziele</de>
+            <it>Bersagli</it>
+            <fr>Cibles</fr>
+            <ru>Цели</ru>
+            <pt>Alvos</pt>
+        </string>
+
+        <string id="INS_PAGE3_DESC1">
+            <en>Shoot targets to collect points</en>
+            <es>Dispara a los objetivos\npara obtener puntos</es>
+            <de>Schieße auf die Ziele,\num Punkte zu sammeln</de>
+            <it>Colpisci i bersagli per\nraccogliere punti</it>
+            <fr>Tire sur les cibles pour\ncollecter des points</fr>
+            <ru>Стреляйте по целям,\nчтобы заработать очки</ru>
+            <pt>Atire nos alvos para\ncoletar pontos</pt>
+        </string>
+
+        <string id="INS_PAGE3_TITLE2">
+            <en>Direct shot</en>
+            <es>Tiro directo</es>
+            <de>Direkter schlag</de>
+            <it>Colpo diretto</it>
+            <fr>Coup direct</fr>
+            <ru>Прямой удар</ru>
+            <pt>Tiro direto</pt>
+        </string>
+
+        <string id="INS_PAGE3_DESC2">
+            <en>Swipe forward</en>
+            <es>Desliza hacia adelante</es>
+            <de>Wisch nach vorn</de>
+            <it>Scorri in avanti</it>
+            <fr>Balayez vers l'avant</fr>
+            <ru>Проведите вперёд</ru>
+            <pt>Deslize para frente</pt>
+        </string>
+
+        <string id="INS_PAGE3_TITLE3">
+            <en>Curve shot</en>
+            <es>Tiro curvo</es>
+            <de>Kurvenschlag</de>
+            <it>Colpo curvo</it>
+            <fr>Coup courbé</fr>
+            <ru>Криволинейный удар</ru>
+            <pt>Tiro curvo</pt>
+        </string>
+
+        <string id="INS_PAGE3_DESC3">
+            <en>Swipe forward and then turn</en>
+            <es>Desliza hacia adelante\ny luego gira</es>
+            <de>Wisch nach vorn\nund dann drehen</de>
+            <it>Scorri in avanti e poi gira</it>
+            <fr>Balayez vers l'avant\npuis tournez</fr>
+            <ru>Проведите вперёд,\nа затем поверните</ru>
+            <pt>Deslize para frente\ne depois vire</pt>
+        </string>
+
+        <string id="SPECIAL_EVENT">
+            <en>SPECIAL EVENT</en>
+            <es>Evento especial</es>
+            <de>Spezialereignis</de>
+            <it>Evento speciale</it>
+            <fr>Événement spécial</fr>
+            <ru>Открыть</ru>
+            <pt>Abrir</pt>
+        </string>
+
+        <string id="START_EVENT">
+            <en>Start event</en>
+            <es>Iniciar evento</es>
+            <de>Ereignis starten</de>
+            <it>Inizia evento</it>
+            <fr>Commencer l'événement</fr>
+            <ru>Начать событие</ru>
+            <pt>Iniciar evento</pt>
+        </string>
+
+        <string id="SEARCHING_OPPONENT">
+            <en>looking for player</en>
+            <es>buscar jugador</es>
+            <de>Suche nach Spieler</de>
+            <it>ricerca del giocatore</it>
+            <fr>recherche de joueur</fr>
+            <ru>поиск игрока</ru>
+            <pt>procurar jogador</pt>
+        </string>
+
+        <string id="EARN_TROPHIES_TO_UNLOCK">
+            <en>Earn trophies\nto unlock</en>
+            <es>gana trofeos\npara desbloquear</es>
+            <de>Trophäen verdienen\nund freischalten</de>
+            <it>guadagnare trofei\nper sbloccare</it>
+            <fr>gagnez des trophées\npour débloquer</fr>
+            <ru>зарабатывайте\nтрофеи, чтобы\nразблокировать</ru>
+            <pt>ganhe troféus\npara desbloquear</pt>
+        </string>
+
+        <string id="NEW_GAME">
+            <en>New Game</en>
+            <de>Neues Spiel</de>
+            <es>Nuevo juego</es>
+            <fr>Nouveau jeu</fr>
+            <it>Nuovo gioco</it>
+            <pt>Novo jogo</pt>
+            <ru>Новая игра</ru>
+        </string>
+
+        <string id="GAME_ENDED">
+            <en>Game Ended</en>
+            <es>NAN</es>
+            <de>NAN</de>
+            <it>NAN</it>
+            <fr>NAN</fr>
+            <ru>NAN</ru>
+            <pt>NAN</pt>
+        </string>
+
+        <string id="TARGET">
+            <en>Target</en>
+            <es>Objetivo</es>
+            <de>Ziel</de>
+            <it>Obiettivo</it>
+            <fr>Objectif</fr>
+            <ru>цель</ru>
+            <pt>Alvo</pt>
+        </string>
+
+        <string id="WATCH_AD">
+            <en>Watch ad</en>
+            <es>anuncio</es>
+            <de>Werbung</de>
+            <it>annuncio</it>
+            <fr>publicité</fr>
+            <ru>реклама</ru>
+            <pt>anúncio</pt>
+        </string>
+
+        <string id="MIN">
+            <en>m</en>
+            <es>m</es>
+            <de>m</de>
+            <it>m</it>
+            <fr>m</fr>
+            <ru>м</ru>
+            <pt>m</pt>
+        </string>
+
+        <string id="SEC">
+            <en>s</en>
+            <es>s</es>
+            <de>s</de>
+            <it>s</it>
+            <fr>s</fr>
+            <ru>с</ru>
+            <pt>s</pt>
+        </string>
+
+        <string id="WEIGHT">
+            <en>Weight</en>
+            <es>peso</es>
+            <de>Gewicht</de>
+            <it>peso</it>
+            <fr>poids</fr>
+            <ru>масса</ru>
+            <pt>peso</pt>
+        </string>
+
+        <string id="SPEED">
+            <en>Speed</en>
+            <es>Velocidad</es>
+            <de>Schnelligkeit</de>
+            <it>Velocità</it>
+            <fr>Vitesse</fr>
+            <ru>скорость</ru>
+            <pt>Velocidade</pt>
+        </string>
+
+        <string id="RELOAD">
+            <en>reload</en>
+            <es>Recarga</es>
+            <de>Nachladen</de>
+            <it>Ricarica</it>
+            <fr>Recharge</fr>
+            <ru>Перезагрузка</ru>
+            <pt>Recarregar</pt>
+        </string>
+
+        <string id="CURVEC">
+            <en>Curve control</en>
+            <es>Control de la curva</es>
+            <de>Kurvensteuerung</de>
+            <it>Controllo della curva</it>
+            <fr>Contrôle de la courbe</fr>
+            <ru>Управление кривой</ru>
+            <pt>Controle de curva</pt>
+        </string>
+
+        <string id="VICTORY">
+            <en>Victory</en>
+            <es>Victoria</es>
+            <de>Sieg</de>
+            <it>Vittoria</it>
+            <fr>Victoire</fr>
+            <ru>Победа</ru>
+            <pt>Vitória</pt>
+        </string>
+
+        <string id="DEFEAT">
+            <en>defeat</en>
+            <es>derrota</es>
+            <de>besiege</de>
+            <it>sconfitta</it>
+            <fr>défaite</fr>
+            <ru>поражение</ru>
+            <pt>derrota</pt>
+        </string>
+
+        <string id="DRAW">
+            <en>Draw</en>
+            <es>empate</es>
+            <de>Unentschieden</de>
+            <it>pareggio</it>
+            <fr>match nul</fr>
+            <ru>Ничья</ru>
+            <pt>empate</pt>
+        </string>
+
+        <string id="SPLIT">
+            <en>Split</en>
+            <es>Split</es>
+            <de>Split</de>
+            <it>Split</it>
+            <fr>Split</fr>
+            <ru>Сплит</ru>
+            <pt>Split</pt>
+        </string>
+
+        <string id="SPARE">
+            <en>Spare</en>
+            <es>Spare</es>
+            <de>Spare</de>
+            <it>Spare</it>
+            <fr>Spare</fr>
+            <ru>Спэр</ru>
+            <pt>Spare</pt>
+        </string>
+
+        <string id="STRIKE">
+            <en>Strike</en>
+            <es>Strike</es>
+            <de>Strike</de>
+            <it>Strike</it>
+            <fr>Strike</fr>
+            <ru>Страйк</ru>
+            <pt>Strike</pt>
+        </string>
+
+        <string id="DOUBLE">
+            <en>Double</en>
+            <es>Doble</es>
+            <de>Doppel</de>
+            <it>Doppio</it>
+            <fr>Double</fr>
+            <ru>Дубль</ru>
+            <pt>Duplo</pt>
+        </string>
+
+        <string id="OPEN">
+            <en>Open</en>
+            <es>Abrir</es>
+            <de>Öffnen</de>
+            <it>Apri</it>
+            <fr>Ouvrir</fr>
+            <ru>Открыть</ru>
+            <pt>Abrir</pt>
+        </string>
+
+        <string id="TURKEY">
+            <en>Turkey</en>
+            <es>Turkey</es>
+            <de>Turkey</de>
+            <it>Turkey</it>
+            <fr>Turkey</fr>
+            <ru>Турки</ru>
+            <pt>Turkey</pt>
+        </string>
+
+        <string id="HAMBONE">
+            <en>Hambone</en>
+            <es>Hambone</es>
+            <de>Hambone</de>
+            <it>Hambone</it>
+            <fr>Hambone</fr>
+            <ru>Хэмбоун</ru>
+            <pt>Hambone</pt>
+        </string>
+
+        <string id="PERFECT_GAME">
+            <en>Perfect\ngame</en>
+            <es>Partida\nperfecta</es>
+            <de>Perfektes\nSpiel</de>
+            <it>Partita\nperfetta</it>
+            <fr>Partie\nparfaite</fr>
+            <ru>Идеальная\nигра</ru>
+            <pt>Jogo\nperfeito</pt>
+        </string>
+
+        <string id="LOREM_LONG">
+            <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</en>
+            <es>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</es>
+            <de>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</de>
+            <it>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</it>
+            <fr>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</fr>
+            <ru>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</ru>
+            <pt>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec erat nisl. Pellentesque tristique, quam nec blandit tincidunt.</pt>
+        </string>
+
+        <string id="LOREM_SHORT">
+            <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</en>
+            <es>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</es>
+            <de>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</de>
+            <it>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</it>
+            <fr>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</fr>
+            <ru>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</ru>
+            <pt>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP1">
+            <en>Swipe forward</en>
+            <es>deslizar hacia delante</es>
+            <de>nach vorne wischen</de>
+            <it>passare il dito in avanti</it>
+            <fr>glisser vers l'avant</fr>
+            <ru>Проведите пальцем вперед</ru>
+            <pt>deslizar para frente</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP2">
+            <en>Shoot targets to collect points</en>
+            <es>Dispara a los objetivos para obtener puntos</es>
+            <de>Schieße auf die Ziele, um Punkte zu sammeln</de>
+            <it>Colpisci i bersagli per raccogliere punti</it>
+            <fr>Tire sur les cibles pour collecter des points</fr>
+            <ru>Стреляйте по целям, чтобы заработать очки</ru>
+            <pt>Atire nos alvos para coletar pontos</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP3">
+            <en>Swipe the ball forward</en>
+            <es>Deslizar el balón hacia delante</es>
+            <de>Den Ball nach vorne schieben</de>
+            <it>Passare la palla in avanti</it>
+            <fr>Faire glisser le ballon vers l'avant</fr>
+            <ru>Проведите мяч вперед</ru>
+            <pt>Deslize a bola para frente</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP5">
+            <en>Nice! Ready for another cool moves?</en>
+            <es>¡Qué bien! ¿Listo para otro movimiento genial?</es>
+            <de>Klasse! Bereit für eine weitere coole Bewegung?</de>
+            <it>Bello! Pronti per un'altra bella mossa?</it>
+            <fr>Superbe! Prêt pour d'autres mouvements sympas ?</fr>
+            <ru>Класс! Готовы к новым крутым движениям?</ru>
+            <pt>Muito bom! Pronto para outra jogada legal?</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP6">
+            <en>Move the ball by dragging it sideways.</en>
+            <es>Mueve la pelota arrastrándola hacia los lados.</es>
+            <de>Bewege den Ball, indem du ihn seitwärts ziehst.</de>
+            <it>Muovete la palla trascinandola lateralmente.</it>
+            <fr>Déplacez la balle en la faisant glisser latéralement.</fr>
+            <ru>Перемещайте мяч, перетаскивая его из стороны в сторону.</ru>
+            <pt>Mova a bola arrastando-a para os lados.</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP7">
+            <en>Slide arrows below the ball, to adjust your throw's direction.</en>
+            <es>Desliza las flechas por debajo de la pelota, para ajustar la dirección de tu lanzamiento.</es>
+            <de>Schiebe die Pfeile unter den Ball, um die Wurfrichtung zu ändern.</de>
+            <it>Fate scorrere le frecce sotto la palla per regolare la direzione del lancio.</it>
+            <fr>Fais glisser les flèches sous la balle pour ajuster la direction de ton lancer.</fr>
+            <ru>Передвигайте стрелки под мячом, чтобы изменить направление броска.</ru>
+            <pt>Deslize as setas abaixo da bola para ajustar a direção do arremesso.</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP8">
+            <en>Great job. Now have fun and win the match.</en>
+            <es>Buen trabajo. Ahora diviértete y gana el partido.</es>
+            <de>Toll gemacht! Jetzt viel Spaß und gewinne das Spiel.</de>
+            <it>Ottimo lavoro. Ora divertitevi e vincete la partita.</it>
+            <fr>Bon travail. Maintenant, amuse-toi et gagne le match.</fr>
+            <ru>Отличная работа. Теперь веселитесь и выигрывайте матч.</ru>
+            <pt>Ótimo trabalho. Agora, divirta-se e ganhe a partida.</pt>
+        </string>
+
+        <string id="ONBOARDING_STEP11">
+            <en>Win games to collect prizes.</en>
+            <es>Gana juegos para coleccionar premios.</es>
+            <de>Gewinne Spiele, um Preise zu sammeln.</de>
+            <it>Vinci partite per collezionare premi.</it>
+            <fr>Gagner des jeux pour collecter des prix.</fr>
+            <ru>Выигрывай игры, чтобы собирать призы.</ru>
+            <pt>Vença jogos para coletar prêmios.</pt>
+        </string>
+
+        <string id="MAX">
+            <en>Max</en>
+            <es>Máx.</es>
+            <de>Max.</de>
+            <it>Max</it>
+            <fr>Max</fr>
+            <ru>Макс.</ru>
+            <pt>Máx</pt>
+        </string>
+
+        <string id="YOUR_TURN">
+            <en>Your turn</en>
+            <es>Tu turno</es>
+            <de>Dein Zug</de>
+            <it>Tuo turno</it>
+            <fr>À ton tour</fr>
+            <ru>Твой ход</ru>
+            <pt>Sua vez</pt>
+        </string>
+
+        <string id="WAY_BETTER">
+            <en>Way better</en>
+            <es>Mucho mejor</es>
+            <de>Viel besser</de>
+            <it>Molto meglio</it>
+            <fr>Bien meilleur</fr>
+            <ru>гораздо лучше</ru>
+            <pt>Muito melhor</pt>
+        </string>
+
+        <string id="SWAP_THE_BALL">
+            <en>Swap the ball</en>
+            <es>Cambiar la bola</es>
+            <de>Den Ball wechseln</de>
+            <it>Cambia la palla</it>
+            <fr>Changer de boule</fr>
+            <ru>Сменить шар</ru>
+            <pt>Trocar a bola</pt>
+        </string>
+
+        <string id="VS">
+            <en>VS</en>
+            <es>c</es>
+            <de>gg</de>
+            <it>c</it>
+            <fr>c</fr>
+            <ru>против</ru>
+            <pt>contra</pt>
+        </string>
+
+        <string id="ON_FIRE">
+            <en>On fire</en>
+            <es>Encendido</es>
+            <de>Im Feuer</de>
+            <it>A fuoco</it>
+            <fr>En feu</fr>
+            <ru>В огне</ru>
+            <pt>Em chamas</pt>
+        </string>
+
+        <string id="SCOREBOARD">
+            <en>Scoreboard</en>
+            <es>Marcador</es>
+            <de>Anzeigetafel</de>
+            <it>Tabellone</it>
+            <fr>Tableau des scores</fr>
+            <ru>Табло</ru>
+            <pt>Placar</pt>
+        </string>
+
+        <string id="PLAYER">
+            <en>PLAYER</en>
+            <es>PLAYER</es>
+            <de>PLAYER</de>
+            <it>PLAYER</it>
+            <fr>PLAYER</fr>
+            <ru>ИГРОК</ru>
+            <pt>PLAYER</pt>
+        </string>
+
+        <string id="TOTAL">
+            <en>Total</en>
+            <es>Total</es>
+            <de>Gesamt</de>
+            <it>Totale</it>
+            <fr>Total</fr>
+            <ru>всего</ru>
+            <pt>Total</pt>
+        </string>
+
+        <string id="MATCH_BEGINS">
+            <en>match begins</en>
+            <es>Comienza el partido</es>
+            <de>Das Spiel beginnt</de>
+            <it>Inizio partita</it>
+            <fr>Début du match</fr>
+            <ru>Матч начинается</ru>
+            <pt>Início da partida</pt>
+        </string>
+
+        <string id="HALFTIME">
+            <en>Halftime</en>
+            <es>Medio tiempo</es>
+            <de>Halbzeit</de>
+            <it>Primo tempo</it>
+            <fr>Mi-temps</fr>
+            <ru>Перерыв</ru>
+            <pt>Intervalo</pt>
+        </string>
+
+        <string id="OVERTIME">
+            <en>Overtime</en>
+            <es>Tiempo extra</es>
+            <de>Nachspielzeit</de>
+            <it>Tempi supplementari</it>
+            <fr>Heures supplémentaires</fr>
+            <ru>Овертайм</ru>
+            <pt>Prorrogação</pt>
+        </string>
+
+        <string id="TIME_IS_UP">
+            <en>Time is up</en>
+            <es>Se acaba\nel tiempo</es>
+            <de>Die Zeit\nist abgelaufen</de>
+            <it>Il tempo\nè scaduto</it>
+            <fr>Le temps\nest écoulé</fr>
+            <ru>Время\nистекло</ru>
+            <pt>O tempo acabou</pt>
+        </string>
+
+        <string id="HALF">
+            <en>Half</en>
+            <es>Medio</es>
+            <de>Halbzeit</de>
+            <it>Metà</it>
+            <fr>Moitié</fr>
+            <ru>Половина</ru>
+            <pt>Metade</pt>
+        </string>
+
+        <string id="TOTAL_SCORE">
+            <en>Total score</en>
+            <es>Puntuación total</es>
+            <de>Gesamtes Ergebnis</de>
+            <it>Punteggio totale</it>
+            <fr>Score total</fr>
+            <ru>Общий счет</ru>
+            <pt>Pontuação total</pt>
+        </string>
+
+        <string id="FINAL_RESULT">
+            <en>Final result</en>
+            <es>Resultado final</es>
+            <de>Endgültiges Ergebnis</de>
+            <it>Risultato finale</it>
+            <fr>Résultat final</fr>
+            <ru>Итоговый результат</ru>
+            <pt>Resultado final</pt>
+        </string>
+
+        <string id="NAME">
+            <en>name</en>
+            <es>Nombre</es>
+            <de>Name</de>
+            <it>Nome</it>
+            <fr>Nom</fr>
+            <ru>Имя</ru>
+            <pt>Nome</pt>
+        </string>
+
+        <string id="REWARDS">
+            <en>rewards</en>
+            <es>Recompensas</es>
+            <de>Belohnungen</de>
+            <it>Ricompense</it>
+            <fr>Récompenses</fr>
+            <ru>Награды</ru>
+            <pt>Recompensas</pt>
+        </string>
+
+        <string id="YOUR_TOTAL_WINS">
+            <en>Your total wins</en>
+            <es>Total de victorias</es>
+            <de>Ihre Gesamtgewinne</de>
+            <it>Totale vittorie</it>
+            <fr>Total de victoires</fr>
+            <ru>Количество побед</ru>
+            <pt>Seu total de vitórias</pt>
+        </string>
+
+        <string id="QUEST_EARN_STARS">
+            <en>Earn XX Stars</en>
+            <es>Gana XX Estrellas</es>
+            <de>Verdiene XX Sterne</de>
+            <it>Guadagna XX Stelle</it>
+            <fr>Gagnez XX Étoiles</fr>
+            <ru>Заработай Звезды: XX</ru>
+            <pt>Ganhe XX Estrelas</pt>
+        </string>
+
+        <string id="QUEST_WIN_GAMES">
+            <en>Win XX Games</en>
+            <es>Gana XX Partidos</es>
+            <de>Gewinne XX Spiele</de>
+            <it>Vinci XX Partite</it>
+            <fr>Gagner XX Jeux</fr>
+            <ru>Выиграй Игры: XX</ru>
+            <pt>Ganhe XX Jogos</pt>
+        </string>
+
+        <string id="QUEST_USE_BOOSTERS">
+            <en>Use XX Abilities</en>
+            <es>Usa XX Habilidades</es>
+            <de>Verwende XX Fähigkeiten</de>
+            <it>Usa XX Abilità</it>
+            <fr>Utiliser XX Capacités</fr>
+            <ru>Используй Способности: XX</ru>
+            <pt>Use XX Habilidades</pt>
+        </string>
+
+        <string id="QUEST_WATCH_ADS">
+            <en>Watch XX ADs</en>
+            <es>Ver XX Anuncios</es>
+            <de>Beobachte XX ADs</de>
+            <it>Guardare XX annunci</it>
+            <fr>Voir XX Annonces</fr>
+            <ru>Посмотри Рекламу: XX</ru>
+            <pt>Ver XX anúncios</pt>
+        </string>
+
+        <string id="QUEST_COLLECT_ITEMS">
+            <en>Collect XX Items</en>
+            <es>Recoge XX objetos</es>
+            <de>Sammle XX Gegenstände</de>
+            <it>Raccogli XX oggetti</it>
+            <fr>Collecter XX objets</fr>
+            <ru>Собери предметы: XX </ru>
+            <pt>Colete XX itens</pt>
+        </string>
+
+        <string id="QUEST_COMPLETE_ALL">
+            <en>Finish All Quests</en>
+            <es>Termina todas las misiones</es>
+            <de>Alle Quests abschließen</de>
+            <it>Completa tutte le missioni</it>
+            <fr>Terminer toutes les missions</fr>
+            <ru>Заверши все задания</ru>
+            <pt>Termine todas as missões</pt>
+        </string>
+
+        <string id="SHOP">
+            <en>Shop</en>
+            <es>Tienda</es>
+            <de>Geschäft</de>
+            <it>Negozio</it>
+            <fr>Magasin</fr>
+            <ru>Магазин</ru>
+            <pt>Loja</pt>
+        </string>
+
+        <string id="QUESTS">
+            <en>Quests</en>
+            <es>Misiones</es>
+            <de>Quests</de>
+            <it>Missioni</it>
+            <fr>Missions</fr>
+            <ru>Задания</ru>
+            <pt>Missões</pt>
+        </string>
+
+        <string id="AUDIO">
+            <en>Audio</en>
+            <es>Audio</es>
+            <de>Audio</de>
+            <it>Audio</it>
+            <fr>Audio</fr>
+            <ru>Аудио</ru>
+            <pt>Áudio</pt>
+        </string>
+
+        <string id="LEVEL">
+            <en>Level</en>
+            <es>Nivel</es>
+            <de>Ebene</de>
+            <it>Livello</it>
+            <fr>Niveau</fr>
+            <ru>Уровень</ru>
+            <pt>Nível</pt>
+        </string>
+
+        <string id="SURRENDER">
+            <en>Surrender</en>
+            <es>Rendirse</es>
+            <de>Aufgeben</de>
+            <it>Arrendersi</it>
+            <fr>Se rendre</fr>
+            <ru>Сдаться</ru>
+            <pt>Render-se</pt>
+        </string>
+
+        <string id="MAIN_MENU">
+            <en>Main\nMenu</en>
+            <es>Menú\nprincipal</es>
+            <de>Hauptmenü</de>
+            <it>Menù\nprincipale</it>
+            <fr>Menu\nprincipal</fr>
+            <ru>Главное\nменю</ru>
+            <pt>Menu\nprincipal</pt>
+        </string>
+
+        <string id="NEXT_LEVEL">
+            <en>Next Level</en>
+            <es>Siguiente Nivel</es>
+            <de>Nächstes Level</de>
+            <it>Livello Successivo</it>
+            <fr>Niveau Suivant</fr>
+            <ru>Следующий\nУровень</ru>
+            <pt>Próximo Nível</pt>
+        </string>
+
+        <string id="EVENT_GIFTS">
+            <en>Event Gifts</en>
+            <es>Regalos de evento</es>
+            <de>Ereignis-Geschenke</de>
+            <it>Regali dell'evento</it>
+            <fr>Cadeaux de l'événement</fr>
+            <ru>Подарки к событиям</ru>
+            <pt>Presentes de eventos</pt>
+        </string>
+
+        <string id="FIRST_GAME_REWARD">
+            <en>First Game Reward</en>
+            <es>Recompensa por la primera partida</es>
+            <de>Belohnung für das erste Spiel</de>
+            <it>Ricompensa per la prima partita</it>
+            <fr>Récompense pour la première partie</fr>
+            <ru>Награда за первую игру</ru>
+            <pt>Recompensa pelo primeiro jogo</pt>
+        </string>
+
+        <string id="GOLDPIGGY">
+            <en>Gold Piggy!</en>
+            <es>¡Cerdito de oro!</es>
+            <de>Goldschweinchen!</de>
+            <it>Porcellino d'oro!</it>
+            <fr>Cochon d'or!</fr>
+            <ru>Золотая свинка!</ru>
+            <pt>Porquinho dourado!</pt>
+        </string>
+
+        <string id="LEVEL_FAILED">
+            <en>Level Failed</en>
+            <es>Nivel fallido</es>
+            <de>Level gescheitert</de>
+            <it>Livello fallito</it>
+            <fr>Niveau échoué</fr>
+            <ru>Уровень провален</ru>
+            <pt>Nível falhado</pt>
+        </string>
+
+        <string id="TRY_AGAIN">
+            <en>Try Again</en>
+            <es>Inténtalo\nde nuevo</es>
+            <de>Erneut\nversuchen</de>
+            <it>Riprova</it>
+            <fr>Réessayer</fr>
+            <ru>Попробуй\nеще раз</ru>
+            <pt>Tente\nnovamente</pt>
+        </string>
+
+        <string id="OUT_OF_SPACE">
+            <en>Out of Space</en>
+            <es>Fuera del espacio</es>
+            <de>Kein Platz mehr</de>
+            <it>Fuori dallo spazio</it>
+            <fr>Hors de l'espace</fr>
+            <ru>Не хватает места</ru>
+            <pt>Fora do espaço</pt>
+        </string>
+
+        <string id="CLEAR_INVENTORY">
+            <en>Clear\nInventory</en>
+            <es>Borrar\ninventario</es>
+            <de>Inventar\nlöschen</de>
+            <it>Cancellare\nl'inventario</it>
+            <fr>Effacer\nl'inventaire</fr>
+            <ru>Очистить\nинвентарь</ru>
+            <pt>Limpar\ninventário</pt>
+        </string>
+
+        <string id="OUT_OF_TIME">
+            <en>Out of Time</en>
+            <es>Sin tiempo</es>
+            <de>Keine Zeit mehr</de>
+            <it>Senza tempo</it>
+            <fr>Temps écoulé</fr>
+            <ru>Время вышло</ru>
+            <pt>Sem tempo</pt>
+        </string>
+
+        <string id="PLAY_ON">
+            <en>Play On</en>
+            <es>Seguir\njugando</es>
+            <de>Weiterspielen</de>
+            <it>Continuare\na giocare</it>
+            <fr>Continuer\nà jouer</fr>
+            <ru>Продолжить\nигру</ru>
+            <pt>Continuar\njogando</pt>
+        </string>
+
+        <string id="INSUFFICIENT_FUNDS">
+            <en>Insufficient Funds</en>
+            <es>Fondos insuficientes</es>
+            <de>Unzureichende Mittel</de>
+            <it>Fondi insufficienti</it>
+            <fr>Fonds insuffisants</fr>
+            <ru>Недостаточно средств</ru>
+            <pt>Fundos insuficientes</pt>
+        </string>
+
+        <string id="THROWBACK">
+            <en>Throw back</en>
+            <es>Devolver</es>
+            <de>Zurückwerfen</de>
+            <it>Ritornare</it>
+            <fr>Retourner</fr>
+            <ru>Возврат</ru>
+            <pt>Retornar</pt>
+        </string>
+
+        <string id="WHIRLWIND">
+            <en>Whirlwind</en>
+            <es>Torbellino</es>
+            <de>Wirbelwind</de>
+            <it>Vortice</it>
+            <fr>Tourbillon</fr>
+            <ru>Вихрь</ru>
+            <pt>Redemoinho</pt>
+        </string>
+
+        <string id="ROCKET">
+            <en>Rocket</en>
+            <es>Cohete</es>
+            <de>Rakete</de>
+            <it>Razzo</it>
+            <fr>Fusée</fr>
+            <ru>Ракета</ru>
+            <pt>Foguete</pt>
+        </string>
+
+        <string id="MGLASS">
+            <en>Goal Finder</en>
+            <es>Buscador\nde objetivos</es>
+            <de>Zielfinder</de>
+            <it>Cercatore\ndi obiettivi</it>
+            <fr>Chercheur\nd'objectifs</fr>
+            <ru>Отслеживатель\nцелей</ru>
+            <pt>Localizador\nde metas</pt>
+        </string>
+
+        <string id="THROWBACK_DESC">
+            <en>Returns one item back to the playground.</en>
+            <es>Devuelve un objeto al campo de juego.</es>
+            <de>Bringe einen Gegenstand zurück auf den Spielplatz.</de>
+            <it>Riporta un oggetto sul campo di gioco.</it>
+            <fr>Renvoie un objet sur le terrain de jeu.</fr>
+            <ru>Возвращает один предмет обратно на игровое поле.</ru>
+            <pt>Retorna um objeto ao campo de jogo.</pt>
+        </string>
+
+        <string id="WHIRLWIND_DESC">
+            <en>Shuffles the items on the playground.</en>
+            <es>Reordena los elementos en el campo de juego.</es>
+            <de>Ordne die Elemente auf dem Spielfeld neu an.</de>
+            <it>Riorganizza gli oggetti sul campo di gioco.</it>
+            <fr>Réorganisez les éléments sur le terrain de jeu.</fr>
+            <ru>Перемешивает предметы на игровом поле.</ru>
+            <pt>Reorganize os elementos no campo de jogo.</pt>
+        </string>
+
+        <string id="MGLASS_DESC">
+            <en>Highlights three goal items.</en>
+            <es>Destaca tres elementos objetivo.</es>
+            <de>Markiert drei Zielgegenstände.</de>
+            <it>Evidenzia tre elementi oggettivi.</it>
+            <fr>Met en évidence trois éléments objectifs.</fr>
+            <ru>Выделяет три целевых предмета.</ru>
+            <pt>Destaca três elementos objetivo.</pt>
+        </string>
+
+        <string id="ROCKET_DESC">
+            <en>Destroys three non-goal items.</en>
+            <es>Destruye tres elementos que no son el objetivo.</es>
+            <de>Zerstöre drei Nicht-Ziel Gegenstände.</de>
+            <it>Distruggi tre oggetti che non sono un obiettivo.</it>
+            <fr>Détruit trois éléments non-objectifs.</fr>
+            <ru>Уничтожает три нецелевых предмета.</ru>
+            <pt>Destrua três itens não-alvo.</pt>
+        </string>
+
+        <string id="INSTRUCTIONS_PAGE0">
+            <en>Tap 3 identical items\nto collect them</en>
+            <es>Toca 3 objetos iguales\npara recogerlos</es>
+            <de>Tippe auf 3 gleiche\nGegenstände, um sie\neinzusammeln</de>
+            <it>Tocca 3 oggetti\nidentici per\nraccoglierli</it>
+            <fr>Touchez 3 objets\nidentiques pour\nles collecter</fr>
+            <ru>Нажми на 3 одинаковых\nпредмета, чтобы\nсобрать их</ru>
+            <pt>Toque em 3 objetos\nidênticos para\ncoletá-los</pt>
+        </string>
+
+        <string id="INSTRUCTIONS_PAGE1">
+            <en>Collect all GOAL items\nto finish the level</en>
+            <es>Recoge todos los\nelementos OBJETIVO\npara terminar el nivel</es>
+            <de>Sammle alle\nZIEL-Gegenstände ein,\num das Level zu beenden</de>
+            <it>Raccogli tutti gli\noggetti OBIETTIVO per\nfinire il livello</it>
+            <fr>Collectez tous les\nobjets OBJECTIF pour\nterminer le niveau</fr>
+            <ru>Собери все ЦЕЛЕВЫЕ\nпредметы, чтобы\nзакончить уровень</ru>
+            <pt>Colete todos os itens\nde OBJETIVO para\nterminar o nível</pt>
+        </string>
+
+        <string id="INSTRUCTIONS_PAGE2">
+            <en>Collect all of the goals\nbefore TIME is over!</en>
+            <es>¡Recoge todos los\nobjetivos antes de\nque acabe el TIEMPO!</es>
+            <de>Sammle alle Ziele ein,\nbevor die ZEIT\nabgelaufen ist!</de>
+            <it>Raccogli tutti gli\nobiettivi prima che\nil TEMPO finisca!</it>
+            <fr>Collectez tous les\nobjectifs avant que le\nTEMPS ne soit écoulé!</fr>
+            <ru>Собери все цели,\nпока не закончилось\nВРЕМЯ!</ru>
+            <pt>Colete todos os\nobjetivos antes que\no TEMPO acabe!</pt>
+        </string>
+
+        <string id="WELCOME">
+            <en>Welcome!</en>
+            <es>¡Bienvenido!</es>
+            <de>Willkommen!</de>
+            <it>Benvenuti!</it>
+            <fr>Bienvenue!</fr>
+            <ru>Добро пожаловать!</ru>
+            <pt>Bem-vindo!</pt>
+        </string>
+
+        <string id="WELCOME_MESSAGE">
+            <en>Let's learn how to play and make the most out of your adventure.</en>
+            <es>Vamos a aprender a jugar y a disfrutar al máximo de tu aventura.</es>
+            <de>Lass uns lernen, wie man spielt und das Beste aus deinem Abenteuer macht.</de>
+            <it>Impara a giocare e sfrutta al meglio la tua avventura.</it>
+            <fr>Apprenez à jouer et tirez le meilleur parti de votre aventure.</fr>
+            <ru>Давай научимся играть и получим максимум удовольствия от твоего приключения.</ru>
+            <pt>Vamos aprender a jogar e aproveitar ao máximo sua aventura.</pt>
+        </string>
+
+        <string id="MAX">
+            <en>Max</en>
+            <es>Máximo</es>
+            <de>Maximal</de>
+            <it>Massimo</it>
+            <fr>Max</fr>
+            <ru>Макс.</ru>
+            <pt>Máximo</pt>
+        </string>
+
+        <string id="MAX_LEVEL_REACHED">
+            <en>You’ve reached the maximum level. Resetting will restart your progress, but you’ll unlock a new set of randomized levels for a fresh challenge.</en>
+            <es>Has alcanzado el nivel máximo. Al restablecer, reiniciarás tu progreso, pero desbloquearás un nuevo conjunto de niveles aleatorios para un nuevo desafío.</es>
+            <de>Du hast das maximale Level erreicht. Wenn du zurücksetzt, wird dein Fortschritt neu gestartet, aber du schaltest eine neue Reihe zufälliger Level für eine frische Herausforderung frei.</de>
+            <it>Hai raggiunto il livello massimo. Il ripristino riavvierà i tuoi progressi, ma sbloccherai un nuovo set di livelli casuali per una nuova sfida.</it>
+            <fr>Tu as atteint le niveau maximum. La réinitialisation relancera ta progression, mais tu débloqueras un nouveau lot de niveaux aléatoires pour un nouveau défi.</fr>
+            <ru>Вы достигли максимального уровня. Сброс приведет к перезапуску прогресса, но вы откроете новый набор случайных уровней для нового испытания.</ru>
+            <pt>Você atingiu o nível máximo. A redefinição reiniciará seu progresso, mas você desbloqueará um novo conjunto de níveis aleatórios para um novo desafio.</pt>
+        </string>
+
+        <string id="RESET_LEVELS">
+            <en>Reset\nLevels</en>
+            <es>Restablecer\nniveles</es>
+            <de>Level\nzurücksetzen</de>
+            <it>Ripristina\nlivelli</it>
+            <fr>Relancer\nniveaux</fr>
+            <ru>Сбросить\nуровни</ru>
+            <pt>Redefinir\nníveis</pt>
+        </string>
+
+        <string id="COINS">
+            <en>Coins</en>
+            <es>Monedas</es>
+            <de>Münzen</de>
+            <it>Monete</it>
+            <fr>Monnaies</fr>
+            <ru>Монеты</ru>
+            <pt>Moedas</pt>
+        </string>
+
+        <string id="SCORE">
+            <en>Score</en>
+            <es>Puntuación</es>
+            <de>Ergebnis</de>
+            <it>Punteggio</it>
+            <fr>Score</fr>
+            <ru>Очки</ru>
+            <pt>Pontuação</pt>
+        </string>
+
+        <string id="RESUME">
+            <en>Resume</en>
+            <es>Continuar</es>
+            <de>Weiter</de>
+            <it>Continua</it>
+            <fr>Continuer</fr>
+            <pt>Continuar</pt>
+            <ru>Продолжить</ru>
+        </string>
+
+        <string id="REVIVE">
+            <en>Revive</en>
+            <es>NAN</es>
+            <de>NAN</de>
+            <it>NAN</it>
+            <fr>NAN</fr>
+            <ru>NAN</ru>
+            <pt>NAN</pt>
+        </string>
+
+        <string id="NEW_BLOCK">
+            <en>New Block</en>
+            <es>NAN</es>
+            <de>NAN</de>
+            <it>NAN</it>
+            <fr>NAN</fr>
+            <ru>NAN</ru>
+            <pt>NAN</pt>
+        </string>
+
+        <string id="DOUBLE_REWARD">
+            <en>Double Reward</en>
+            <es>NAN</es>
+            <de>NAN</de>
+            <it>NAN</it>
+            <fr>NAN</fr>
+            <ru>NAN</ru>
+            <pt>NAN</pt>
+        </string>
+
+        <string id="COMPLETED">
+            <en>Completed</en>
+            <es>Completado</es>
+            <de>Abgeschlossen</de>
+            <it>Completato</it>
+            <fr>Terminé</fr>
+            <ru>Завершено</ru>
+            <pt>Concluído</pt>
+        </string>
+
+        <string id="SHUFFLE">
+            <en>Shuffle</en>
+            <es>Barajar</es>
+            <de>Mischen</de>
+            <it>Mischiare</it>
+            <fr>Mélanger</fr>
+            <ru>Шаффл</ru>
+            <pt>Embaralhar</pt>
+        </string>
+
+        <string id="SHUFFLE_DESC">
+            <en>Rearrange the color of the vehicles in parking lot</en>
+            <es>Reorganizar el color de los vehículos en el estacionamiento</es>
+            <de>Ordnen Sie die Farbe der Fahrzeuge auf dem Parkplatz neu an</de>
+            <it>Riorganizza il colore dei veicoli nel parcheggio</it>
+            <fr>Réorganisez la couleur des véhicules dans le parking</fr>
+            <ru>Переставляйте цвета автомобилей на парковке</ru>
+            <pt>Reorganize a cor dos veículos no estacionamento</pt>
+        </string>
+
+        <string id="SORT">
+            <en>Sort</en>
+            <es>Ordenar</es>
+            <de>Sortieren</de>
+            <it>Ordinamento</it>
+            <fr>Trier</fr>
+            <ru>Сортировать</ru>
+            <pt>Classificar</pt>
+        </string>
+
+        <string id="SORT_DESC">
+            <en>Sort the passengers according to vehicle colors</en>
+            <es>Ordena a los pasajeros según los colores de los vehículos</es>
+            <de>Sortieren Sie die Fahrgäste nach den Fahrzeugfarben</de>
+            <it>Ordinare i passeggeri in base ai colori dei veicoli</it>
+            <fr>Trier les passagers en fonction de la couleur des véhicules</fr>
+            <ru>Отсортируйте пассажиров по цветам автомобилей.</ru>
+            <pt>Classifique os passageiros de acordo com as cores dos veículos</pt>
+        </string>
+
+        <string id="GET_NEW_SPOT">
+            <en>Get a new parking spot to keep playing!</en>
+            <es>¡Consigue una nueva plaza de aparcamiento para seguir jugando!</es>
+            <de>Besorgen Sie sich einen neuen Parkplatz, um weiter spielen zu können!</de>
+            <it>Ottieni un nuovo posto auto per continuare a giocare!</it>
+            <fr>Obtenez une nouvelle place de parking pour continuer à jouer !</fr>
+            <ru>Получите новое место для парковки, чтобы продолжить игру!</ru>
+            <pt>Obtenha uma nova vaga de estacionamento para continuar jogando!</pt>
+        </string>
+
+        <string id="CAR_PARK">
+            <en>Car park</en>
+            <es>Aparcamiento</es>
+            <de>Parken</de>
+            <it>Parcheggio</it>
+            <fr>Parking</fr>
+            <ru>Парковка</ru>
+            <pt>Estacionamento</pt>
+        </string>
+
+        <string id="UNLOCK_CAR_PARK">
+            <en>Unlock 1 car park space for the parking slot</en>
+            <es>Desbloquee 1 plaza de aparcamiento para la ranura de estacionamiento</es>
+            <de>1 Parkplatz für den Stellplatz freischalten</de>
+            <it>Sblocca 1 posto auto per il parcheggio</it>
+            <fr>Déverrouillez 1 place de parking pour l'emplacement de parking</fr>
+            <ru>Разблокируйте 1 парковочное место за слот для парковки</ru>
+            <pt>Desbloqueie 1 vaga de estacionamento para o espaço de estacionamento</pt>
+        </string>
+
+        <string id="NO_CAR_TO_SORT">
+            <en>There is no car to sort</en>
+            <es>No hay ningún coche\npara clasificar</es>
+            <de>Es gibt kein Auto zu sortieren</de>
+            <it>Non c'è nessuna auto\nda selezionare</it>
+            <fr>Il n'y a pas de\nvoiture à trier</fr>
+            <ru>Нет машины для сортировки</ru>
+            <pt>Não há nenhum carro\npara classificar</pt>
+        </string>
+
+        <string id="VOID">
+            <en></en>
+            <es></es>
+            <de></de>
+            <it></it>
+            <fr></fr>
+            <ru></ru>
+            <pt></pt>
+        </string>
+
+    </strings>
+</stringresources>
